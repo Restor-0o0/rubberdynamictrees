@@ -1,0 +1,6 @@
+{
+  "primitive_leaves": "gtceu:rubber_leaves",
+  "texture_overrides": {
+    "leaves": "gtceu:block/rubber_leaves"
+  }
+}

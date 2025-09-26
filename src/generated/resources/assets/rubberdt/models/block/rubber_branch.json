@@ -1,0 +1,7 @@
+{
+  "loader": "dynamictrees:branch",
+  "textures": {
+    "bark": "gtceu:block/rubber_log",
+    "rings": "gtceu:block/rubber_log_top"
+  }
+}

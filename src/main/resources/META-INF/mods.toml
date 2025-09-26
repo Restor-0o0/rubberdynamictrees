@@ -1,0 +1,47 @@
+
+modLoader = "javafml"
+loaderVersion = "[43,)"
+license = "MIT"
+
+
+[[mods]]
+    modId = "rubberdt"
+    version = "1.0"
+    displayName = "RubberDynamicTrees"
+    authors = "Restor"
+    description = '''Rubber tree for DynamicTrees'''
+
+[[dependencies.rubberdt]]
+    modId = "forge"
+    mandatory = true
+    versionRange = "[43,)"
+    ordering = "NONE"
+    side = "BOTH"
+
+[[dependencies.rubberdt]]
+    modId = "minecraft"
+    mandatory = true
+    versionRange = "[1.19.2,)"
+    ordering = "NONE"
+    side = "BOTH"
+
+[[dependencies.rubberdt]]
+    modId = "dynamictrees"
+    mandatory = true
+    versionRange="[1.2.2,)"
+    ordering = "AFTER"
+    side = "BOTH"
+
+[[dependencies.rubberdt]]
+    modId = "gtceu"
+    mandatory = true
+    versionRange="[1.2.3,)"
+    ordering = "AFTER"
+    side = "BOTH"
+
+[[dependencies.rubberdt]]
+    modId = "rubberdt"
+    mandatory = true
+    versionRange="[1.0,)"
+    ordering = "AFTER"
+    side = "BOTH"

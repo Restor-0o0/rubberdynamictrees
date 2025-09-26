@@ -1,0 +1,18 @@
+[
+  {
+    "select": {
+      "name": "minecraft:.*",
+      "tag": "#forge:is_swamp"
+    },
+    "apply": {
+      "species": {
+        "method": "splice_before",
+        "random": {
+          "rubberdt:rubber": 1,
+          "...": 15
+        }
+      }
+    }
+  }
+
+]

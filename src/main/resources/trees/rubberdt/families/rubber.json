@@ -1,0 +1,7 @@
+{
+    "common_leaves": "rubberdt:rubber",
+    "common_species": "rubberdt:rubber",
+    "primitive_log": "gtceu:rubber_log",
+    "primitive_stripped_log": "gtceu:stripped_rubber_log",
+    "max_branch_radius": 8
+}
