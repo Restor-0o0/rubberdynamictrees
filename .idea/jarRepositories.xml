@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="https://maven.minecraftforge.net/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2" />
+      <option name="name" value="maven2" />
+      <option name="url" value="https://libraries.minecraft.net/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenRepo" />
+      <option name="name" value="MavenRepo" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ParchmentMC" />
+      <option name="name" value="ParchmentMC" />
+      <option name="url" value="https://maven.parchmentmc.org/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="https://ldtteam.jfrog.io/ldtteam/modding/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2" />
+      <option name="name" value="maven2" />
+      <option name="url" value="https://www.cursemaven.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="https://harleyoconnor.com/maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="https://squiddev.cc/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="GTCEu Maven" />
+      <option name="name" value="GTCEu Maven" />
+      <option name="url" value="https://maven.gtceu.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ModMaven" />
+      <option name="name" value="ModMaven" />
+      <option name="url" value="https://modmaven.dev/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Curseforge Maven" />
+      <option name="name" value="Curseforge Maven" />
+      <option name="url" value="https://minecraft.curseforge.com/maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Tterrag Mod Maven" />
+      <option name="name" value="Tterrag Mod Maven" />
+      <option name="url" value="https://maven.tterrag.com/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="https://api.repsy.io/mvn/toma/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="https://maven.tterrag.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2" />
+      <option name="name" value="maven2" />
+      <option name="url" value="https://mvnrepository.com/artifact/com.tterrag.registrate/Registrate" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="firstdarkdev" />
+      <option name="name" value="firstdarkdev" />
+      <option name="url" value="https://maven.firstdarkdev.xyz/snapshots" />
+    </remote-repository>
+  </component>
+</project>
