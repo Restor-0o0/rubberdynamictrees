@@ -2,7 +2,7 @@
   {
     "select": {
       "name": "minecraft:.*",
-      "tag": "#forge:is_swamp"
+      "tag": "#minecraft:is_jungle"
     },
     "apply": {
       "species": {
