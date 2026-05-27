@@ -1,7 +1,7 @@
 {
-  "parent": "dynamictrees:item/branch",
-  "textures": {
-    "bark": "gtceu:block/rubber_log",
-    "rings": "gtceu:block/rubber_log_top"
-  }
+    "parent": "dynamictrees:item/branch",
+    "textures": {
+        "bark": "gtceu:block/rubber_log",
+        "rings": "gtceu:block/rubber_log_top"
+    }
 }

@@ -1,7 +1,7 @@
 {
-  "variants": {
-    "": {
-      "model": "rubberdt:block/stripped_rubber_branch"
+    "variants": {
+        "": {
+            "model": "rubberdt:block/stripped_rubber_branch"
+        }
     }
-  }
 }
