@@ -1,7 +1,9 @@
 {
     "family": "rubberdt:rubber",
     "leaves_properties": "rubberdt:rubber",
-    "perfect_biomes": { "types": [ "forest", "overworld" ] },
+    "preferred_climate": "tropical",
+    "climate_tolerance": 0.3,
+    "perfect_biomes": { "tag": "#minecraft:is_jungle" },
     "generate_seed": true,
     "generate_sapling": true,
     "primitive_sapling": "gtceu:rubber_sapling",

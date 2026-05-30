@@ -3,10 +3,6 @@ pluginManagement {
         gradlePluginPortal()
 
         maven {
-            name = "ForgeGradle"
-            url = uri("https://maven.minecraftforge.net/")
-        }
-        maven {
             name = "GTCEu Maven"
             url = uri("https://maven.gtceu.com")
             content {
@@ -17,17 +13,10 @@ pluginManagement {
             name = "parchment"
             url = uri("https://maven.parchmentmc.org")
         }
-        maven {
-            name = 'MinecraftForge'
-            url = 'https://maven.minecraftforge.net/'
-        }
         mavenCentral()
     }
 }
-plugins {
-    id 'org.gradle.toolchains.foojay-resolver-convention' version '0.7.0'
-    id("net.minecraftforge.gradle") version "6.+" apply false
-    id("org.parchmentmc.librarian.forgegradle") version "1.+" apply false
-}
 
-rootProject.name = 'rubberdynamictrees'
+plugins {
+    id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
+}

@@ -1,7 +1,6 @@
 [
   {
     "select": {
-      "name": "minecraft:.*",
       "tag": "#minecraft:is_jungle"
     },
     "apply": {
@@ -14,5 +13,4 @@
       }
     }
   }
-
 ]
